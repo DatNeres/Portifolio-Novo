@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import adapter from '@sveltejs/adapter-auto'
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -9,5 +10,21 @@ const config = {
     adapter: adapter(),
   },
 }
+=======
+import adapter from 'svelte-adapter-bun';
+
+/** @type {import('@sveltejs/kit').Config} */
+const config = {
+	kit: {
+		adapter: adapter({
+			out: 'build',
+			precompress: false,
+			envPrefix: '',
+			polyfill: true,
+			sourcemap: true,
+		}),
+	}
+};
+>>>>>>> 5394778a6ec701935d5ed3a6e2fa3faa4627e833
 
 export default config
