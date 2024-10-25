@@ -1,4 +1,5 @@
 <script>
+  
   import data from '../../data/certificados.json'
   import { browser } from '$app/environment'
 
@@ -83,6 +84,7 @@
       prev()
     }
   }
+
 </script>
 
 
