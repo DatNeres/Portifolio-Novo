@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "titulo": "Por Trás do Código: A Importância das Relações Humanas.",
+      "subtitulo": "Como tento me destacar e evoluir na minha área, considerando a alta concorrência e a busca constante por excelência em um campo repleto de talentos e novidades?",
+      "resumo_subtitulo": "Como tento me destacar e evoluir na minha área.",
+      "imagem_capa": "blog/jornada_ti.png",
+      "texto": "Independentemente da profissão, um profissional é, antes de tudo, uma pessoa. Quero enfatizar que, apesar de o quão competente você seja em sua área de atuação, seu trabalho será feito por pessoas, ao redor de pessoas e para pessoas. Isso ressalta a importância das habilidades interpessoais, as quais são tão cruciais quanto suas habilidades técnicas. Mantendo isso em mente, meu progresso profissional começa com a maneira como me relaciono com as pessoas. Comunicação, empatia, colaboração, resolução de problemas e gestão de conflitos são igualmente fundamentais em relação às minhas habilidades técnicas com a programação. Tive a sorte de perceber isso cedo, graças a oportunidades de trabalho e interações com colegas, o que me permitiu compreender que cada indivíduo possui sua própria história e que o mundo é muito mais “redondo” que minha própria bolha. <br><br>Após compreender a importância das habilidades sociais, me deparei com um mundo de infinitas possibilidades e evolução quase que constante. Para alguém da área de tecnologia, há tantos caminhos possíveis que a pergunta “Você já sabe em qual área específica deseja entrar?” pode gerar uma ansiedade desnecessária. Para alguns, a resposta pode ter surgido antes mesmo de entrar na faculdade ou no primeiro contato com uma linguagem de programação, já para outros ainda não. Como é sobre mim, essa resposta veio consideravelmente cedo. Embora o desenvolvimento web e mobile seja algo que me fascina e dedico meu tempo livre. Estou ciente de que existem outras possibilidades. A questão central deste parágrafo é como lidar com a ansiedade por algo que continua no horizonte e depende do tempo e das oportunidades para serem evoluídas.<br><br> Quanto ao desenvolvimento web, meu maravilhoso portfólio reflete esta descoberta (com “maravilhoso” quero dizer: por ser o resultado da luta contra o medo de não ser capaz ou da procrastinação. E não, por ter as melhores linhas de códigos, afinal, não possuir o temível ego que atinge alguns programadores, é uma das minhas principais metas). Depois desse pequeno parêntese, um dos aspectos que enriqueceu minha trajetória foi a busca diária por informações relevantes. Manter feeds de redes sociais voltados para tecnologia é uma das maneiras mais eficazes de se manter atualizado com informações importantes e tutoriais. Além disso, acompanhar profissionais renomados na área tem sido um recurso valioso para minha aprendizagem. Existem excelentes desenvolvedores dispostos a compartilhar seu conhecimento e experiência gratuitamente.<br><br> De modo geral, reconheço que tudo faz parte do processo, e os caminhos podem ser desafiadores. A ansiedade por etapas que ainda não estão claras nem sempre é produtiva. O estudo e as boas práticas são uma constante, e influências positivas desempenham um papel crucial em meu crescimento (expresso minha gratidão a profissionais como Eduardo Torres, uma inspiração para mim na área DEV ). Manter a humildade é essencial, pois sempre haverá alguém mais experiente e aceitar críticas é fundamental para a evolução. Olhando para o futuro, almejo ser um profissional capacitado e confiante em minha área de atuação, capaz de orientar novos desenvolvedores, assim como fui orientado por muitos."
+    },
+    {
+      "id": 1,
+      "titulo": "A Inteligência Artificial: Amiga ou Inimiga?",
+      "subtitulo": "Como a IA alavancou meu progresso de estudo e trouxe mais igualdade no ensino.",
+      "resumo_subtitulo": "Como a IA alavancou meu progresso de estudo.",
+      "imagem_capa": "blog/ia_amigo_inimigo.png",
+      "texto": "É comum que as novidades sejam inicialmente vistas com desconfiança. Com a introdução rápida e acelerada da inteligência artificial (IA), muitos alarmistas previram o fim de várias profissões, incluindo a programação. Alguns influenciadores da área, como Lucas Montano, mostraram em seus canais que é possível gerar um aplicativo inteiramente construído por meio do Chat-GPT. O poder de processamento e automação de máquinas sempre superará a capacidade humana. Durante todas as revoluções industriais, testemunhamos o desaparecimento de empregos, mas também o surgimento de novas demandas. Não há muito a ser feito quando se trata de evolução tecnológica. Para alguns, isso causa preocupação: \"O que farei se a IA tomar meu emprego?\" Para outros, a pergunta é: \"Como posso usar isso a meu favor? Quais novas demandas serão geradas?\".<br><br> Acredito que as IAs trouxeram uma democracia diferente, com aplicativos e ferramentas que permitem a qualquer um obter resultados satisfatórios gratuitamente em pesquisas, criação de imagens, vídeos, música, texto, entre outros. Vivemos atualmente uma era de consumo excessivo de conteúdo digital, e as IAs surgiram para atender a essa demanda. <br><br>Falando por experiência própria, no início dos meus estudos em desenvolvimento web, eu frequentemente ficava preso em uma linha de código. Os tutoriais gratuitos ensinavam a aplicar aquilo em um contexto específico, mas e se eu quisesse aplicá-lo de forma diferente? Isso muitas vezes resultava em horas perdidas assistindo a vídeos, lendo blogs e participando de fóruns que exigiam autorização para liberar minhas dúvidas. Quando comecei a usar a IA para me explicar o que estava fazendo de errado e me permitir fazer quantas perguntas forem necessárias para entender, minha evolução foi significativamente mais rápida. Iniciantes frequentemente passam por isso, onde um simples erro de digitação, como uma vírgula no lugar de um ponto, pode quebrar todo o código.<br><br> Por fim, fazer uso consciente da IA, evitando simplesmente copiar e colar, e, em vez disso, usá-la para obter explicações em vez de códigos prontos, foi uma ótima maneira de aprimorar meu aprendizado em programação. Não há nada que possamos fazer para deter a evolução tecnológica, e essa geralmente traz maravilhas consigo. Trabalhe com ela, ou para ela, ou talvez precise juntar seus paus e pedras e preparar-se para o combate.",
+      "gerado_ia": [{
+        "imagem": "blog/homem_vs_maquina.png",
+        "legenda": "Imagem gerada pelo DALL-E, IA gerador de imagens da OpenAI."
+      }]
+    },
+    {
+      "id": 2,
+      "titulo": "Sites que uso na programação web.",
+      "subtitulo": "Esta lista contém alguns sites relevantes para iniciantes como eu, e que irão ajudar muito no desenvolimento web principamente a parte de design.",
+      "resumo_subtitulo": "Sites relevantes para iniciantes.",
+      "imagem_capa": "blog/sites_que_uso.png",
+      "conteudo_extra": [
+        {
+          "titulo": "Um guia completo sobre flexbox",
+          "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+          "imagem": "blog/flex_box.png",
+          "texto": "Este guia completo explica tudo sobre o flexbox, focando em todas as diferentes propriedades possíveis para o elemento pai (o flex container) e os elementos filhos (os flex items). Também inclui histórico, demonstrações, padrões e um gráfico de suporte do navegador."
+        },
+        {
+          "titulo": "Google Fonts",
+          "link": "https://fonts.google.com/",
+          "imagem": "blog/google_fonts.png",
+          "texto": "Fontes fornecidas gratuitamente pelo Google, tanto por download como importando direto pro projeto."
+        },
+        {
+          "titulo": "WebGradients",
+          "link": "https://webgradients.com/",
+          "imagem": "blog/webgradients.png",
+          "texto": "uma coleção gratuita de 180 gradientes lineares que você pode usar como pano de fundo de conteúdo em qualquer parte do seu site."
+        },
+        {
+          "titulo": "Storyset",
+          "link": "https://storyset.com/",
+          "imagem": "blog/storyset.png",
+          "texto": "Impressionantes ilustrações personalizáveis ​​gratuitas para o seu próximo projeto Personalize, anime e baixe nossas ilustrações para criar landing pages, aplicativos ou apresentações incríveis!."
+        },
+        {
+          "titulo": "Color Hunt",
+          "link": "https://colorhunt.co/",
+          "imagem": "blog/color_hunt.png",
+          "texto": "Paletas de cores para designers e artistas Descubra as mais novas paletas escolhidas a dedo do Color Hunt."
+        },
+        {
+          "titulo": "Icons8",
+          "link": "https://icons8.com/",
+          "imagem": "blog/icons8.png",
+          "texto": "São centenas de milhares de icones animados e estáticos, e você pode usar de forma gratuita desde que atribua os devidos créditos."
+        },
+        {
+          "titulo": "Dribbble",
+          "link": "https://dribbble.com/",
+          "imagem": "blog/dribbble.png",
+          "texto": "Centenas de trabalhos voltados pro UI/UX que irão te inspirar na hora de desenvolver seus próprios trabalhos."
+        },
+        {
+          "titulo": "Get CSS Scan",
+          "link": "https://getcssscan.com/css-box-shadow-examples",
+          "imagem": "blog/css_scan.png",
+          "texto": "São 93 exemplos que você pode copiar de sombras no css."
+        },
+        {
+          "titulo": "3DBay",
+          "link": "3dbay.io",
+          "imagem": "blog/3dbay.png",
+          "texto": "Este site foi uma das melhores descobertas, e usei por todo meu projeto, sendo totalmente gratuito."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Um pouco sobre os batidores dos meus projetos pessoais.",
+      "subtitulo": "Críterios, tecnologias, sufocos e frustações do processo de aprender a desenvolver projetos na prática.",
+      "resumo_subtitulo": "Aprendizados desenvolvendo projetos na prática.",
+      "imagem_capa": "blog/criterios_tecnologias.png",
+      "texto": "Meu primeiro contato com o desenvolvimento web ocorreu no início de 2017, quando comecei a trabalhar com HTML e CSS. Naquela época, os sites tinham um visual quadrado e a responsividade deixava a desejar. Parecia que eu tinha viajado no tempo, criando páginas com uma estética antiquada e desconexa. No entanto, mesmo em 2017, meu primeiro passo no mundo do desenvolvimento web era algo fascinante.<br><br> Agora, em 2023, estou de volta com uma energia renovada e mais preparado do que nunca. Estabeleci a meta de concluir e lançar um portfólio até o final deste ano. O que você está explorando agora é o resultado de muita dedicação e da superação de obstáculos. Meu objetivo é usá-lo como um espelho da minha identidade e do meu trabalho, marcando o início da minha carreira profissional. <br><br>No desenvolvimento web, existem inúmeras maneiras de construir um projeto. As tecnologias que escolhi para minha jornada são HTML, CSS, Tailwind CSS, React e JavaScript. Meu objetivo é me tornar um desenvolvedor full stack, e planejo incorporar o Node.js e TypeScript.<br><br> PAINEL DE ALUNO, foi meu primeiro projeto, ele foi construído usando CSS e JAVASCRIPT PURO, foi também o que me trouxe segurança em desenvolver qualquer coisa nessa linguagem, mesmo que embora não conheça absolutamente tudo, sou capaz de aprender uma nova feature com mais facilidade. No início não está tão por dentro de funções anônimas e arrow function, então meu projeto estava cheio de funções com nomes (tava até sem criativamente em alguns momentos) Mas pude voltar e corrigi-las depois de um tempo, também tive uma certa resistência em entender que precisava garantir uma boa lógica tendo em mente que o js vai ler de cima para baixo e que não vai acessar uma variável se ela for exclusiva de outra função. Houve muitas outras circunstâncias mas não irei tão afundo, mas o JS permitiu entender como a lógica é fundamental e me mostrou que sou capaz de aprender qualquer nova linguagem (pude sentir isso durante as aulas de python na faculdade, pegava tudo rápido e mais fácil) <br><br>RANDOMSFOOD, foi o projeto mais complicado e divertido para mim, eu gostei muito da parte visual e como tudo é vivo e animado, mas tive uma barreira enorme em compreender o React de fato, de como fazer as coisas se conectarem se cada componente tem sua própria realidade, precisei compreender e evoluir o conceito de Props e Context API este eu tive certa dificuldade, mas gostei muita de usar useState, useEffect e como os componentes são renderizados. CHAT-ELLY, é na verdade algo simples de ser fazer, basicamente um design maneiro e um chat alimentado pela API do chat-gbt, a questão é que por ter uma animação em boa qualidade, fez com que o projeto pesasse um pouco, mas como o foco dele não é uso diário foi algo que não me preocupei tanto. <br><br>Cada projeto me ajudou muito a melhorar minhas noções de programação, por a mão na massa é realmente a melhor forma de desenvolver suas habilidades. Algo importante é ter em mente que você deve entender como a linguagem funciona de modo geral e suas particulares, mas que é muito custoso saber exatamente o que cada função faz, eu mesmo me deparo com coisas que nunca imaginei que a linguagem tinha, mas que ao ir ler a documento era capaz de compreender tranquilamente."
+    }
+  ]
+}
