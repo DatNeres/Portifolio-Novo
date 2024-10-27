@@ -25,11 +25,11 @@
         apaixonado por tecnologia e entusiasta de
         front-end. Tenho experiência em
         desenvolvimento com JS, React, Svelte,
-        Python, TailwindCSS, CSS e HTML. <br /><br
+        Python, Shell e TailwindCSS, CSS e HTML. <br /><br
         />
         Atualmente, sou Estágiario na VIVO na área
         de Infraestrutura e Cloud, especificamente
-        em Engenharia de Plataformas. Nesta função,
+        em Middleware. Nesta função,
         estou adquirindo novas habilidades com ferramentas
         como Linux, Apache, WebLogic, Elastic, Dynatrace,
         Control-M, ServiceNow, Produtos Oracle, entre
