@@ -1,0 +1,68 @@
+{
+  "certificados": [
+    {
+      "id": 0,
+      "titulo": "Yellow Belt",
+      "texto": "Certificado Yellow Belt em Lean Six Sigma foi crucial na minha carreira. Criei um HUB de automação que otimizou tarefas repetitivas e aumentou a eficiência da equipe. Essa experiência reforçou meu compromisso com a inovação e a melhoria contínua.",
+      "imagem": "certificados/yellow_belt.png",
+      "tags": [
+        "LeanSixSigma",
+        "Produtividade",
+        "Automação",
+        "Metodologias"
+      ]
+    },
+    {
+      "id": 1,
+      "titulo": "API e Microsserviços",
+      "texto": "Aprendi nesse mini curso sobre API e microserviços os conceitos fundamentais e a importância dessas arquiteturas no desenvolvimento de software moderno. O curso abordou um pouco de  como construir e gerenciar APIs , além de explorar a comunicação entre microserviços, e práticas recomendadas para e segurança.",
+      "imagem": "certificados/certificação_em_API_microsseviços.png",
+      "tags": [
+        "Metodologias",
+        "API",
+        "Microserviços",
+        "Arquitetura de Sistemas"
+      ]
+    },
+    {
+      "id": 0,
+      "titulo": "Fundamentos de microsserviços",
+      "texto": "Esse mini curso sobre os fundamentos de API os conceitos básicos e a importância das interfaces de programação no desenvolvimento de aplicações.",
+      "imagem": "certificados/fundamentos_de_microsserviços.png",
+      "tags": [
+        "Metodologias",
+        "API",
+        "Microserviços",
+        "Arquitetura de Sistemas"
+      ]
+    },
+    {
+      "id": 0,
+      "titulo": "Fundamentos UX",
+      "texto": "Curso sobre os fundamentos de UX (Experiência do Usuário) a importância de criar produtos que atendam às necessidades e expectativas dos usuários. O curso abordou conceitos como pesquisa de usuários, personas, jornadas do usuário e testes de usabilidade.",
+      "imagem": "certificados/fundamentos_ux.png",
+      "tags": ["Experiência do Usuário", "Usabilidade", "UX"]
+    },
+    {
+      "id": 0,
+      "titulo": "Machine Learning",
+      "texto": "O curso abordou tópicos como pré-processamento de dados, seleção de características e avaliação de modelos. Além de aprender sobre as diferentes aplicações de Machine Learning, tive a oportunidade de implementar algoritmos simples em Python, utilizando bibliotecas como scikit-learn.",
+      "imagem": "certificados/machine_Learning.png",
+      "tags": ["Machine Learning", "Algoritmos", "Python"]
+    },
+    {
+      "id": 0,
+      "titulo": "Modelagem de dados SQL",
+      "texto": "O mini curso de modelagem de dados em SQL me proporcionou uma compreensão aprofundada sobre como estruturar e organizar informações em bancos de dados relacionais. Aprendi sobre os princípios de normalização, criação de esquemas e como definir relacionamentos entre tabelas.",
+      "imagem": "certificados/modelagem_de_dados_sql.png",
+      "tags": ["SQL", "Modelagem de dados", "Bancos de Dados"]
+    },
+    {
+      "id": 0,
+      "titulo": "Plataforma Kubernetes",
+      "texto": "Neste curso sobre Kubernetes, explorei os conceitos essenciais dessa plataforma de orquestração de contêineres, incluindo como gerenciar aplicações em contêineres de forma escalável e resiliente. Aprendi sobre componentes principais como pods, serviços e deployments.",
+      "imagem": "certificados/plataforma_kubernetes.png",
+      "tags": ["Kubernetes", "DevOps", "Contêineres", "Cloud"]
+    }
+  ]
+}
