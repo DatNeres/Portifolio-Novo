@@ -1,19 +1,26 @@
-<main class="flex justify-between px-20 font-Poppins max-lg:flex-col max-xl:px-10">
+<main
+  class="flex justify-between px-20 font-Poppins max-lg:flex-col max-xl:px-10"
+>
   <div class="flex flex-col w-1/2 gap-6">
     <div class="flex items-center gap-4">
       <img
-        src="icons8-shield.png"
+        src="/icons/icons8-shield.png"
         alt="Ícone ShieldRSA"
         class="w-24 h-24 bg-white rounded-lg p-2 drop-shadow-xl"
       />
-      <h1 class="font-Righteous text-6xl">ShieldRSA</h1>
+      <h1 class="font-Righteous text-6xl">
+        ShieldRSA
+      </h1>
     </div>
     <div class="flex flex-col gap-7">
       <p>
-        Gere suas próprias chaves privadas e públicas, e proteja suas mensagens
-        com a tecnologia RSA.
+        Gere suas próprias chaves privadas e
+        públicas, e proteja suas mensagens com a
+        tecnologia RSA.
       </p>
-      <p class=" font-extralight">🔁 Versão: 1.0.0</p>
+      <p class=" font-extralight">
+        🔁 Versão: 1.0.0
+      </p>
     </div>
     <div class="flex gap-10 mt-10">
       <a
@@ -30,7 +37,10 @@
           xmlns="http://www.w3.org/2000/svg"
           fill="#ffffff"
           stroke="#ffffff"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
+          ><g
+            id="SVGRepo_bgCarrier"
+            stroke-width="0"
+          ></g><g
             id="SVGRepo_tracerCarrier"
             stroke-linecap="round"
             stroke-linejoin="round"
@@ -68,7 +78,10 @@
           viewBox="0 0 24 24"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
-          ><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g
+          ><g
+            id="SVGRepo_bgCarrier"
+            stroke-width="0"
+          ></g><g
             id="SVGRepo_tracerCarrier"
             stroke-linecap="round"
             stroke-linejoin="round"
@@ -96,22 +109,24 @@
     <div class="flex flex-col gap-2">
       <h2 class="font-bold">Descrição:</h2>
       <p>
-        Você pode facilmente gerar chaves pública e privada usando a confiável
-        tecnologia de criptografia RSA. Essas chaves permitem que você proteja
-        suas mensagens de maneira eficaz, garantindo a privacidade e a segurança
-        das suas comunicações.
+        Você pode facilmente gerar chaves pública
+        e privada usando a confiável tecnologia de
+        criptografia RSA. Essas chaves permitem
+        que você proteja suas mensagens de maneira
+        eficaz, garantindo a privacidade e a
+        segurança das suas comunicações.
       </p>
     </div>
     <div class="flex flex-col gap-4">
       <h2 class="font-bold">Capturas de Tela:</h2>
       <div class="flex gap-4">
         <img
-          src="shieldRSA.png"
+          src="shieldrsa/shieldRSA.png"
           alt="Imagem exibindo o programa ShieldRSA"
           class="w-[16rem]"
         />
         <img
-          src="shieldRSA2.png"
+          src="shieldrsa/shieldRSA2.png"
           alt="Imagem exibindo o programa ShieldRSA"
           class="w-[16rem]"
         />

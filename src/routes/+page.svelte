@@ -25,7 +25,7 @@
         apaixonado por tecnologia e entusiasta de
         front-end. Tenho experiência em
         desenvolvimento com JS, React, Svelte,
-        Python, Shell e TailwindCSS, CSS e HTML. <br /><br
+        Python, Shell e TailwindCSS. <br /><br
         />
         Atualmente, sou Estágiario na VIVO na área
         de Infraestrutura e Cloud, especificamente
